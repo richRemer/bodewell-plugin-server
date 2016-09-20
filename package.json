@@ -1,0 +1,16 @@
+{
+  "name": "bodewell-plugin-server",
+  "version": "0.0.1",
+  "description": "server resource for Bodewell system monitor",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/bodewell-plugin-server.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/bodewell-plugin-server/issues"
+  },
+  "homepage": "https://github.com/richRemer/bodewell-plugin-server#readme"
+}
